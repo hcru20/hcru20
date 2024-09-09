@@ -39,6 +39,6 @@ Currently, I’m working on projects that involve building full-stack applicatio
 Feel free to explore my repositories and leave feedback or suggestions!
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Hannah Cooley](https://www.linkedin.com/in/hcooleydev/)
+- **LinkedIn**: [Hannah Cooley](https://www.linkedin.com/in/hannah-cooley-software-eng/)
 
 Thanks for visiting my profile! I’m always open to new opportunities and collaborations.
