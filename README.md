@@ -8,7 +8,7 @@ I enjoy working across the stack, whether it’s optimizing performance, buildin
 - **Frontend**: React, TypeScript, JavaScript
 - **Backend**: Ruby on Rails, Elixir, Go
 - **DevOps**: Docker, Kubernetes, AWS
-- **Databases**: SQL, DynamoDB
+- **Databases**: SQL, PostgreSQL
 - **APIs**: REST, GraphQL
 
 ## 🛠️ My Skills
