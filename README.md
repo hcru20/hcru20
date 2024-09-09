@@ -40,6 +40,5 @@ Feel free to explore my repositories and leave feedback or suggestions!
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Hannah Cooley](https://www.linkedin.com/in/hcooleydev/)
-- **Email**: [hcooleydev@gmail.com](mailto:hcooleydev@gmail.com)
 
 Thanks for visiting my profile! I’m always open to new opportunities and collaborations.
