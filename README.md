@@ -6,9 +6,9 @@ I’m a passionate **Full-Stack Software Engineer** with 6 years of experience, 
 I enjoy working across the stack, whether it’s optimizing performance, building intuitive UIs, or scaling backend systems. Here are some of the technologies I love working with:
 
 - **Frontend**: React, TypeScript, JavaScript
-- **Backend**: Ruby on Rails, Elixir, Go
+- **Backend**: Ruby on Rails, Elixir
 - **DevOps**: Docker, Kubernetes, AWS
-- **Databases**: SQL, PostgreSQL
+- **Databases**: SQL, PostgreSQL, MySQL
 - **APIs**: REST, GraphQL
 
 ## 🛠️ My Skills
