@@ -20,11 +20,6 @@ I enjoy working across the stack, whether it’s optimizing performance, buildin
 
 ## 💻 What I’m Working On
 Currently, I’m working on projects that involve building full-stack applications and scaling cloud-based systems. My focus is on creating performant, scalable solutions using the latest tech stacks.
-
-## 🌟 Achievements & Contributions
-- **Salesloft**: Led the design and implementation of high-performance web features with Ruby on Rails and React, optimizing server-client code for better scalability.
-- **Ozmo**: Developed a content authoring tool that streamlined internal processes and reduced onboarding time for new content developers.
-- **Mentorship**: At Salesloft, I led an Elixir learning group and mentored engineers to share knowledge and best practices.
   
 ## 📚 Education & Certifications
 - **B.S. in Computer Science**, Radford University
