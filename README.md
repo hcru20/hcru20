@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hannah Cooley!
 
-I’m a passionate **Full-Stack Software Engineer** with 6 years of experience, specializing in **React** and **Ruby on Rails**. My journey in software engineering has led me to design, build, and scale applications that solve real-world problems with clean, maintainable code. Welcome to my GitHub profile!
+I’m a passionate **Full-Stack Software Engineer** specializing in **Ruby on Rails** and **React**. My journey in software engineering has led me to design, build, and scale applications that solve real-world problems with clean, maintainable code.
 
 ## 💡 What I Do
 I enjoy working across the stack, whether it’s optimizing performance, building intuitive UIs, or scaling backend systems. Here are some of the technologies I love working with:
