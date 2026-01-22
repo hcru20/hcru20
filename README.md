@@ -15,8 +15,8 @@ I enjoy working across the stack, whether it’s optimizing performance, buildin
 - **Languages**: Ruby, JavaScript, TypeScript, Python, Java
 - **Frameworks & Libraries**: React, Ruby on Rails, Elixir, Go
 - **Development Tools**: Git, Webpack, Yarn/NPM, Jest, Rspec
-- **CI/CD & Monitoring**: Jenkins, DataDog, New Relic, Sentry
-- **Cloud & Infrastructure**: AWS (S3, SQS, DynamoDB), Docker, Kubernetes
+- **Observability & Monitoring**: DataDog, New Relic, Sentry, BugSnag
+- **Cloud & Infrastructure**: AWS, GCP, Docker, Kubernetes
 
 ## 💻 What I’m Working On
 Currently, I’m working on projects that involve building full-stack applications and scaling cloud-based systems. My focus is on creating performant, scalable solutions using the latest tech stacks.
